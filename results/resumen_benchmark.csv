@@ -1,0 +1,10 @@
+﻿modelo,prompt,faithfulness_score
+gpt-4.1-nano,colaborador,0.7354
+gpt-4.1-mini,proactivo,0.7335
+gpt-4.1-nano,proactivo,0.691
+gpt-4.1-mini,colaborador,0.6867
+gpt-4.1,proactivo,0.6486
+gpt-4.1,colaborador,0.6293
+gpt-4.1-mini,preciso,0.6129
+gpt-4.1,preciso,0.5542
+gpt-4.1-nano,preciso,0.425
